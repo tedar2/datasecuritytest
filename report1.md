@@ -25,13 +25,7 @@
 + the intrusion kill chain: Reconnaisance, Weaponization, Delivery, Exploitation, Installation, Command and Control (C2), Actions on Objectives
 + courses of Action Matrix: 
 
-
-| Phase | Detect | Deny | Disrupt |
-| ------ | ----------- |
-| data   | path to data files to supply the data that will be passed into templates. |
-| engine | engine to be used for processing templates. Handlebars is the default. |
-| ext    | extension to be used for dest files. |
-
+![](https://github.com/tedar2/datasecuritytest/blob/c44e2d4c87cb1401f2752057fbd69432d4358340/Screenshot%202023-01-22%20at%2019.47.49.png) 
 
 
 ### b
