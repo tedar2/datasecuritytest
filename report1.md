@@ -1,6 +1,6 @@
 # Report h01
 
-![alt text](http://url/to/img.png) 
+![HH Logo](https://github.com/tedar2/datasecuritytest/blob/b06717bd3ba1f566c179f3dc5952aa4f8ee270b7/HH%20logo.png) 
 
 ### task z) Hutchins et al 2011: Intelligence-Driven Computer Network Defense Informed by Analysis of Adversary Campaigns and Intrusion Kill Chains (summary)
 
