@@ -25,10 +25,33 @@
 + the intrusion kill chain: Reconnaisance, Weaponization, Delivery, Exploitation, Installation, Command and Control (C2), Actions on Objectives
 + courses of Action Matrix: 
 
-![](https://github.com/tedar2/datasecuritytest/blob/c44e2d4c87cb1401f2752057fbd69432d4358340/Screenshot%202023-01-22%20at%2019.47.49.png) 
+![](https://github.com/tedar2/datasecuritytest/blob/c44e2d4c87cb1401f2752057fbd69432d4358340/Screenshot%202023-01-22%20at%2019.47.49.png)
+
++ Defenders can generate metrics of the resiliency by measuring the performance and effectiveness of defensive actions against intruders
 
 
-### b
+### Command Line Basics Revisited
++ $ pwd   /home/tero
++ pwd prints the working directory
++ $ ls  - listing files in working directory
++ $ cd  - change directory under the working directory
++ $ cd .. - change directory up
++ $ less daria.txt - view file 
++ $ ls /etc |less - any command output can be read one screenfull at a time
++ $ nano F00.TXT - easiest text editors are pico & nano
++ $ mkdir NEWFOLDER / $ mv OLDNAME NEWNAME - creating and renaming
++ $ mv SOMEFILE NEWDIR/ - copy original to copy
++ $ rmdir EMPTYDIR - remove empty directory; $ rm JUNK; $ rm -r FOLDEROFJUNK
+
+
++ $ ssh daria@example - open a remote command shell in a very secure way
++ $ remotecomputer$ exit
++ $scp -r FOLDER daria@example.com:public_html
++ $ man ls
++ $ ls --help
++ $ wget -h
++ $ sudo apt-get update
++ $ sudo apt-get purge nethack
 
 #### content
 
