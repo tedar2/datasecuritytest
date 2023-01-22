@@ -6,8 +6,8 @@
 
 ### Intro
 
-#### + a new class of threats emerged - "Advanced Persistent Threat" or APT 
-#### + conventional incident response methods fail to mitigate the risk with APT intrusions
++ a new class of threats emerged - "Advanced Persistent Threat" or APT 
++ conventional incident response methods fail to mitigate the risk with APT intrusions
 #### + APT actors continually demonstrate the capability to compromise systems by using advanced tools, customized malware, and "zero-day" exploits that anti-virus and patching cannot detect or mitigate
 #### + responses to APT intrusions reqiure an evolutions in analysis, process and technology
 #### + intelligence-driven, threat focused approach to study intrusions from the adversaries' perspective
