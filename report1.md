@@ -6,7 +6,7 @@
 
 ### Hutchins et al 2011: Intelligence-Driven Computer Network Defense Informed by Analysis of Adversary Campaigns and Intrusion Kill Chains (summary)
 
-####Intro
+#### Intro
 
 + a new class of threats emerged - "Advanced Persistent Threat" or APT 
 + conventional incident response methods fail to mitigate the risk with APT intrusions
