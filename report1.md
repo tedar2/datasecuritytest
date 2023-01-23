@@ -60,3 +60,6 @@ a) Bandit oh-five exercizes.
 
 + bandit1 level
 <img width="262" alt="image" src="https://user-images.githubusercontent.com/90892301/214105983-253848a7-30a4-44da-b9b6-19c4281fd28d.png">
+
++ bandit2 level
+<img width="288" alt="image" src="https://user-images.githubusercontent.com/90892301/214108292-4af32698-0181-4eff-941a-b072592c3aa4.png">
