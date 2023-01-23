@@ -29,6 +29,8 @@
 
 + Defenders can generate metrics of the resiliency by measuring the performance and effectiveness of defensive actions against intruders
 
+This article provides with a nice introduction to the secturity world, and I have had some fun time in looking up some terminology I have not read about before and getting introduces with the concepts. 
+
 Source:  [Hutchins et al 2011: Intelligence-Driven Computer Network Defense Informed by Analysis of Adversary Campaigns and Intrusion Kill Chains](https://lockheedmartin.com/content/dam/lockheed-martin/rms/documents/cyber/LM-White-Paper-Intel-Driven-Defense.pdf)
 
 
@@ -80,6 +82,8 @@ I was not sure if I can list the commands and&or passwords here to avoid spoiler
 
 Source: [OverTheWire](https://overthewire.org/wargames/bandit/)
 
+The exercises were a real fun to do and it also helped me to refresh the command and the ssh knowledge.
+
 ### b) Install Debian
 
 My setup differs a bit as I find the best app to work with on MacPro with the M1 core is Parallels so far - 
@@ -88,4 +92,4 @@ My setup differs a bit as I find the best app to work with on MacPro with the M1
 
 ### c) At the moment I am figuring out the WebGoat installation on my Debian
 
-
+Given that I have to use a bit different approach towards installing the VMs on the MacbookPro, I am working on the error that I keep receiving on my Debian while trying to install the WebGoat which is "Unsupported hhtps scheme". 
