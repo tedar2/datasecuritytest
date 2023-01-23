@@ -57,7 +57,9 @@ Source:  [Hutchins et al 2011: Intelligence-Driven Computer Network Defense Info
 
 Source: [Karvinen 2020: Command Line Basics Revisited](https://terokarvinen.com/2020/command-line-basics-revisited/)
 
-### a) Bandit oh-five exercizes. I was not sure if I can list the commands and&or passwords here to avoid spoilers, but I attach some screenshots of the levels:
+### a) Bandit oh-five exercizes. 
+
+I was not sure if I can list the commands and&or passwords here to avoid spoilers, but I attach some screenshots of the levels:
 
 + bandit0 level 
 <img width="262" alt="image" src="https://user-images.githubusercontent.com/90892301/214106287-fc8b24c4-e753-4422-b16c-180bb5960441.png">
@@ -75,6 +77,8 @@ Source: [Karvinen 2020: Command Line Basics Revisited](https://terokarvinen.com/
 + bandit4 level
 
 <img width="288" alt="image" src="https://user-images.githubusercontent.com/90892301/214111626-9350d5fd-5a40-4674-8ae9-2558dd884e0c.png">
+
+Source: [OverTheWire](https://overthewire.org/wargames/bandit/)
 
 ### b) Install Debian
 
