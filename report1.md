@@ -53,8 +53,5 @@
 + $ sudo apt-get update
 + $ sudo apt-get purge nethack
 
-#### content
+<img width="571" alt="image" src="https://user-images.githubusercontent.com/90892301/214103137-b1a012c1-ef7a-4481-adce-32d989becaeb.png">
 
-### c
-
-### content
