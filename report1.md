@@ -53,7 +53,7 @@
 + $ sudo apt-get update
 + $ sudo apt-get purge nethack
 
-a) Bandit oh-five exercizes.
+a) Bandit oh-five exercizes. I was not sure if I can list the commands and&or passwords here to avoid spoilers, but I attach some screenshots of the levels:
 
 + bandit0 level 
 ![image](https://user-images.githubusercontent.com/90892301/214106287-fc8b24c4-e753-4422-b16c-180bb5960441.png)
