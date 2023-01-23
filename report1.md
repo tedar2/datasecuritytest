@@ -29,7 +29,7 @@
 
 + Defenders can generate metrics of the resiliency by measuring the performance and effectiveness of defensive actions against intruders
 
-This article provides with a nice introduction to the secturity world, and I have had some fun time in looking up some terminology I have not read about before and getting introduces with the concepts. 
+This article provides with a nice introduction to the security world, and I have had some fun time in looking up some terminology I have not read about before and getting introduces with the concepts. 
 
 Source:  [Hutchins et al 2011: Intelligence-Driven Computer Network Defense Informed by Analysis of Adversary Campaigns and Intrusion Kill Chains](https://lockheedmartin.com/content/dam/lockheed-martin/rms/documents/cyber/LM-White-Paper-Intel-Driven-Defense.pdf)
 
@@ -61,7 +61,7 @@ Source: [Karvinen 2020: Command Line Basics Revisited](https://terokarvinen.com/
 
 ### a) Bandit oh-five exercizes. 
 
-I was not sure if I can list the commands and&or passwords here to avoid spoilers, but I attach some screenshots of the levels:
+I was not sure if I can list the commands and&or passwords here to avoid spoilers (and I have them saved in my notepad if needed to be demonstrated), but I attach some screenshots of the levels:
 
 + bandit0 level 
 <img width="262" alt="image" src="https://user-images.githubusercontent.com/90892301/214106287-fc8b24c4-e753-4422-b16c-180bb5960441.png">
