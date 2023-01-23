@@ -53,7 +53,7 @@
 + $ sudo apt-get update
 + $ sudo apt-get purge nethack
 
-a) Bandit oh-five exercizes. I was not sure if I can list the commands and&or passwords here to avoid spoilers, but I attach some screenshots of the levels:
+### a) Bandit oh-five exercizes. I was not sure if I can list the commands and&or passwords here to avoid spoilers, but I attach some screenshots of the levels:
 
 + bandit0 level 
 <img width="262" alt="image" src="https://user-images.githubusercontent.com/90892301/214106287-fc8b24c4-e753-4422-b16c-180bb5960441.png">
@@ -71,6 +71,13 @@ a) Bandit oh-five exercizes. I was not sure if I can list the commands and&or pa
 + bandit4 level
 
 <img width="288" alt="image" src="https://user-images.githubusercontent.com/90892301/214111626-9350d5fd-5a40-4674-8ae9-2558dd884e0c.png">
+
+### b) Install Debian
+
+My setup differs a bit as I find the best app to work with on MacPro with the M1 core is Parallels so far - 
+
+<img width="634" alt="image" src="https://user-images.githubusercontent.com/90892301/214112185-5f16f8c9-d1dd-4bd9-ac26-b2256691921c.png">
+
 
 
 
