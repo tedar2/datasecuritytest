@@ -55,6 +55,8 @@ Source:  [Hutchins et al 2011: Intelligence-Driven Computer Network Defense Info
 + $ sudo apt-get update
 + $ sudo apt-get purge nethack
 
+Source: [Karvinen 2020: Command Line Basics Revisited](https://terokarvinen.com/2020/command-line-basics-revisited/)
+
 ### a) Bandit oh-five exercizes. I was not sure if I can list the commands and&or passwords here to avoid spoilers, but I attach some screenshots of the levels:
 
 + bandit0 level 
