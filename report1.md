@@ -56,7 +56,7 @@
 a) Bandit oh-five exercizes. I was not sure if I can list the commands and&or passwords here to avoid spoilers, but I attach some screenshots of the levels:
 
 + bandit0 level 
-![image](https://user-images.githubusercontent.com/90892301/214106287-fc8b24c4-e753-4422-b16c-180bb5960441.png)
+<img width="262" alt="image" src="https://user-images.githubusercontent.com/90892301/214106287-fc8b24c4-e753-4422-b16c-180bb5960441.png">
 
 + bandit1 level
 <img width="262" alt="image" src="https://user-images.githubusercontent.com/90892301/214105983-253848a7-30a4-44da-b9b6-19c4281fd28d.png">
