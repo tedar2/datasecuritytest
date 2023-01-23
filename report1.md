@@ -29,6 +29,8 @@
 
 + Defenders can generate metrics of the resiliency by measuring the performance and effectiveness of defensive actions against intruders
 
+Source:  [Hutchins et al 2011: Intelligence-Driven Computer Network Defense Informed by Analysis of Adversary Campaigns and Intrusion Kill Chains](https://lockheedmartin.com/content/dam/lockheed-martin/rms/documents/cyber/LM-White-Paper-Intel-Driven-Defense.pdf)
+
 
 ### Command Line Basics Revisited
 + $ pwd   /home/tero
