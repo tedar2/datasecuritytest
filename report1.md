@@ -78,6 +78,6 @@ My setup differs a bit as I find the best app to work with on MacPro with the M1
 
 <img width="634" alt="image" src="https://user-images.githubusercontent.com/90892301/214112185-5f16f8c9-d1dd-4bd9-ac26-b2256691921c.png">
 
-
+### c) At the moment I am figuring out the WebGoat installation on my Debian
 
 
