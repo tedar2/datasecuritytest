@@ -67,3 +67,10 @@ a) Bandit oh-five exercizes. I was not sure if I can list the commands and&or pa
 + bandit3 level
 
 <img width="288" alt="image" src="https://user-images.githubusercontent.com/90892301/214110517-da27a4ed-8ac5-4fd7-80fd-5dc11834cbb2.png">
+
++ bandit4 level
+
+<img width="288" alt="image" src="https://user-images.githubusercontent.com/90892301/214111626-9350d5fd-5a40-4674-8ae9-2558dd884e0c.png">
+
+
+
