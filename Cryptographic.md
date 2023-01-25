@@ -8,6 +8,9 @@ Nowadays, we use a lot cryptography of IT to hide sensitive data such as passwor
 
 So, it is important to think about the following questions: are you using a non-secure protocol such as HTTP?; Are you using old or weak cryptography algorithms, or protocol? ; Is your crypto key are correctly managed (weak key, leakage from a key)? ; Are you sure that your data is encrypted? ; Does the certificate received from the server is validated and correct? Do you use some deprecated hash function?
 
+Sources: https://www.kaspersky.com/resource-center/definitions/what-is-cryptography 
+         https://www.geeksforgeeks.org/cryptography-and-its-types/
+
 ## Practicalities
 
 Cryptographic failure is the root cause for sensitive data exposure. According to the Open Web Application Security Project (OWASP) 2021, securing your data against cryptographic failures has become more important than ever.
