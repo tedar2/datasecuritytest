@@ -17,9 +17,9 @@ Cryptographic failure is the root cause for sensitive data exposure. According t
 
 A cryptographic failure flaw can occur when you do the following:
 
-Store or transit data in clear text (most common)
-Protect data with an old or weak encryption
-Improperly filter or mask data in transit
++ Store or transit data in clear text (most common)
++ Protect data with an old or weak encryption
++ Improperly filter or mask data in transit
 
 Source: https://support.f5.com/csp/article/K00174750
 
