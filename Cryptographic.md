@@ -24,3 +24,9 @@ The password database uses unsalted or simple hashes to store everyone's passwor
 
 Source: https://owasp.org/Top10/A02_2021-Cryptographic_Failures/ 
 
+Cryptographic failure attack scenario: 
+
+<img width="865" alt="image" src="https://user-images.githubusercontent.com/90892301/214536561-35e74a8c-4835-476c-b6ed-f83c89ea8d50.png">
+
+Source: https://support.f5.com/csp/article/K00174750
+
