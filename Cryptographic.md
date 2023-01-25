@@ -1,11 +1,14 @@
 # A02:2021 - Cryptographic Failures
 
+## Theory
+
 Cryptography is used to encode a text or a message with a secret code. The aim is to hide the content of the message to other people. To read the content of the message, you need to use the secret key. We used cryptography for a long time in different kind of domain such as military or IT. During wars, the cryptography has been used to transmit messages to the allies.
 
 Nowadays, we use a lot cryptography of IT to hide sensitive data such as passwords. Using cryptography in IT, can involve some problems like exposing sensitive data because of a broken or risky crypto algorithm.To avoid cryptography issues, you need to determine the protection you need for your data that is in transit or at rest. If you are dealing with some credit cards information or personal information, your data will need more protection.
 
 So, it is important to think about the following questions: are you using a non-secure protocol such as HTTP?; Are you using old or weak cryptography algorithms, or protocol? ; Is your crypto key are correctly managed (weak key, leakage from a key)? ; Are you sure that your data is encrypted? ; Does the certificate received from the server is validated and correct? Do you use some deprecated hash function?
 
+## Practicalities
 
 Cryptographic failure is the root cause for sensitive data exposure. According to the Open Web Application Security Project (OWASP) 2021, securing your data against cryptographic failures has become more important than ever.
 
