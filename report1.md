@@ -84,13 +84,7 @@ Source: [OverTheWire](https://overthewire.org/wargames/bandit/)
 
 The exercises were a real fun to do and it also helped me to refresh the command and the ssh knowledge.
 
-### b) Install Debian
-
-My setup differs a bit as I find the best app to work with on MacPro with the M1 core is Parallels so far - 
-
-<img width="634" alt="image" src="https://user-images.githubusercontent.com/90892301/214112185-5f16f8c9-d1dd-4bd9-ac26-b2256691921c.png">
-
-### c) Installing Debian and the WebGoat exercise:
+### b&c) Installing Debian and the WebGoat exercise:
 
 I am working with the MacBook Pro that has the Apple M1 Pro Chip, 32gb, and macOS Ventura 13.1 The software of my choice for installing the Debian and further WebGoat task is Parallels Desktop 18 application for Mac with the Debian GNU Linux 11.3 ARM64 image.
 
