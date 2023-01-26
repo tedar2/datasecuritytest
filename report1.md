@@ -6,7 +6,13 @@
 
 ### Hutchins et al 2011: Intelligence-Driven Computer Network Defense Informed by Analysis of Adversary Campaigns and Intrusion Kill Chains (summary)
 
-#### Intro
+#### Introduction
+
+The article covers the topic of the Advanced Persistent Threats (APTs) and the challenges they pose to computer networks. APTs are a new class of threats that are focused on compromising data for economic or military purposes. Apparently, most organizations have relied on technologies and processes designed to mitigate risks associated with automated viruses and worms, which do not sufficiently address APT intrusions. Conventional incident response methods fail to mitigate the risk posed by APTs because they assume that response should happen after the point of compromise and that the compromise was the result of a fixable flaw. 
+
+One can outline the characteristics of APTs and examples of how they have been observed and characterized by industry and the U.S. government. The advances in infrastructure management tools have enabled best practices of enterprise-wide patching and hardening, but APT actors continue to demonstrate the capability to compromise systems using advanced tools and customized malware. An intelligence-driven, threat-focused approach to study intrusions from the adversaries’ perspective, called “kill chain” analysis, that can be used to develop resilient mitigations against intruders and intelligently prioritize investments in new technology or processes.
+
+Some key bullet points: 
 
 + a new class of threats emerged - "Advanced Persistent Threat" or APT 
 + conventional incident response methods fail to mitigate the risk with APT intrusions
@@ -29,7 +35,7 @@ The article discusses the concept of an "intrusion kill chain," which is a syste
 
 + Defenders can generate metrics of the resiliency by measuring the performance and effectiveness of defensive actions against intruders
 
-This article provides with a nice introduction to the security world, and I have had some fun time in looking up some terminology I have not read about before and getting introduces with the concepts. 
+This article provides with a nice introduction to the security world, and I have had some fun time in looking up some terminology I have not read about before and getting introduced to the concepts. 
 
 Source:  [Hutchins et al 2011: Intelligence-Driven Computer Network Defense Informed by Analysis of Adversary Campaigns and Intrusion Kill Chains](https://lockheedmartin.com/content/dam/lockheed-martin/rms/documents/cyber/LM-White-Paper-Intel-Driven-Defense.pdf)
 
@@ -100,19 +106,20 @@ This is the result of the last command (java -jar webgoat-server-8.0.0.M26.jar) 
 
 <img width="723" alt="Screenshot 2023-01-26 at 21 54 37" src="https://user-images.githubusercontent.com/90892301/214946742-a7a1383f-0a5e-4bec-b8c4-e7c4ff1a058f.png">
 
-However, I faced another peculiar issues. Even though, it seems that the installation went successful, and I am able to open up the WebGoat local host (mentioned in the original Tero's article), I get an error whenever I create the user and try to log in after that: 
+However, I faced another peculiar issue. Even though, it seems that the installation went successful, and I am able to open up the WebGoat local host (mentioned in the original Tero's article), I get an error whenever I create the user and try to log in after that: 
 
 <img width="887" alt="Screenshot 2023-01-26 at 22 48 15" src="https://user-images.githubusercontent.com/90892301/214947331-957d854d-a16d-4d64-bb6b-e15441b5bdc2.png">
 
 The error:
+
 <img width="472" alt="image" src="https://user-images.githubusercontent.com/90892301/214949076-7dc1584f-3f66-4420-8bb1-416c5ea27ad3.png">
 
 
-I tried to reinstall the Debian, tried to run all commands from the article, and create different users, but for now still come back to the same error. 
+I tried to reinstall the Debian, tried to run all commands from the article, and created different users, but for now I still come back to the same error. 
 
 ***
 
-After several attempts, I was able to log in, and managed to fulfill the exercises:
+After several attempts of reinstalling and providing the commands, I was able to create a test user in the WebGoat and finally log in, and I managed to fulfill the exercises:
 
 ### d) Hacker warmup. Solving the following tasks
 
