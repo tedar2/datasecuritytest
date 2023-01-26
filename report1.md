@@ -19,10 +19,10 @@
 
 #### Chapter 3.2 and 3.3 
 
-+ a kill chain is a systematic process to target and engage an adversary to create desired effects
-+ steps are find, fix, track, target, engage, assess (F2T2EA)
-+ a new kill chain model, developed specifically for intrusions: the agressor must develop a payload ro breach a trusted boundary, establish a presence inside a trusted environment, and from that presence, take actions towards their objectives
-+ the intrusion kill chain: Reconnaisance, Weaponization, Delivery, Exploitation, Installation, Command and Control (C2), Actions on Objectives
+The Intrusion Kill Chain is a systematic process used to target and engage an adversary in order to achieve a desired effect. It consists of the phases: reconnaissance, weaponization, delivery, exploitation, installation, command and control (C2), and actions on objectives. During reconnaissance, the attacker identifies and selects targets. Weaponization involves combining a remote access trojan with an exploit into a deliverable payload. Delivery refers to the transmission of the weapon to the targeted environment. Exploitation is the triggering of the attacker's code on the victim host. Installation involves installing a remote access trojan or backdoor on the victim system. Command and control refers to the process of establishing a connection between the compromised host and an internet controller server. Finally, actions on objectives refers to the attacker's ultimate goal, which could be data exfiltration, violations of data integrity or availability, or gaining access to a victim box to compromise additional systems.
+
+The article discusses the concept of an "intrusion kill chain," which is a systematic process used by adversaries to target and engage a victim in order to achieve their objectives. A new kill chain model is presented - specifically for intrusions. The idea of how this model can be used as a framework for actionable intelligence by aligning enterprise defensive capabilities to the specific processes an adversary undertakes to target the enterprise. By aligning defensive capabilities in this way, defenders can measure the performance and effectiveness of their actions and plan investment roadmaps to rectify any capability gaps. Then a course of action matrix is also being covered that depicts various defensive actions, such as detection, denial, disruption, degradation, deception, and destruction, that can be employed in each phase of the kill chain to increase the adversary's cost of executing successful intrusions. The article includes an example of how this approach can be used to measure the resiliency of a defender's security posture over time. 
+
 + courses of Action Matrix: 
 
 ![](https://github.com/tedar2/datasecuritytest/blob/c44e2d4c87cb1401f2752057fbd69432d4358340/Screenshot%202023-01-22%20at%2019.47.49.png)
