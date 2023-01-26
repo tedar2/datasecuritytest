@@ -104,5 +104,9 @@ However, I faced another peculiar issues. Even though, it seems that the install
 
 <img width="887" alt="Screenshot 2023-01-26 at 22 48 15" src="https://user-images.githubusercontent.com/90892301/214947331-957d854d-a16d-4d64-bb6b-e15441b5bdc2.png">
 
+The error:
+<img width="472" alt="image" src="https://user-images.githubusercontent.com/90892301/214949076-7dc1584f-3f66-4420-8bb1-416c5ea27ad3.png">
+
+
 I tried to reinstall the Debian, tried to run all commands from the article, and create different users, but for now still come back to the same error. 
 
