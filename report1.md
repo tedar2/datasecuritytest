@@ -90,6 +90,25 @@ My setup differs a bit as I find the best app to work with on MacPro with the M1
 
 <img width="634" alt="image" src="https://user-images.githubusercontent.com/90892301/214112185-5f16f8c9-d1dd-4bd9-ac26-b2256691921c.png">
 
-### c) At the moment I am figuring out the WebGoat installation on my Debian
+### c) Installing Debian and the WebGoat exercise:
 
-Given that I have to use a bit different approach towards installing the VMs on the MacbookPro, I am working on the error that I keep receiving on my Debian while trying to install the WebGoat which is "Unsupported hhtps scheme". 
+I am working with the MacBook Pro that has the Apple M1 Pro Chip, 32gb, and macOS Ventura 13.1 The software of my choice for installing the Debian and further WebGoat task is Parallels Desktop 18 application for Mac with the Debian GNU Linux 11.3 ARM64 image.
+
+<img width="726" alt="Screenshot 2023-01-26 at 22 43 49" src="https://user-images.githubusercontent.com/90892301/214946382-446411e5-888c-45d3-bdf4-25b044ef8bd8.png">
+
+I have followed the instructions from https://terokarvinen.com/2020/install-webgoat-web-pentest-practice-target/ and I have done all commands from the article as it is possible to see from the screenshots:
+
+<img width="729" alt="Screenshot 2023-01-26 at 21 53 39" src="https://user-images.githubusercontent.com/90892301/214946250-533d1e21-356c-4b3a-b572-2c4687e3f50d.png">
+
+<img width="723" alt="Screenshot 2023-01-26 at 21 53 57" src="https://user-images.githubusercontent.com/90892301/214946699-da2d98ee-b535-4fee-9250-4974ac96cb07.png">
+
+This is the result of the last command (java -jar webgoat-server-8.0.0.M26.jar) result: 
+
+<img width="723" alt="Screenshot 2023-01-26 at 21 54 37" src="https://user-images.githubusercontent.com/90892301/214946742-a7a1383f-0a5e-4bec-b8c4-e7c4ff1a058f.png">
+
+However, I faced another peculiar issues. Even though, it seems that the installation went successful, and I am able to open up the WebGoat local host (mentioned in the original Tero's article), I get an error whenever I create the user and try to log in after that: 
+
+<img width="887" alt="Screenshot 2023-01-26 at 22 48 15" src="https://user-images.githubusercontent.com/90892301/214947331-957d854d-a16d-4d64-bb6b-e15441b5bdc2.png">
+
+I tried to reinstall the Debian, tried to run all commands from the article, and create different users, but for now still come back to the same error. 
+
