@@ -110,3 +110,27 @@ The error:
 
 I tried to reinstall the Debian, tried to run all commands from the article, and create different users, but for now still come back to the same error. 
 
+***
+
+After several attempts, I was able to log in, and managed to fulfill the exercises:
+
+### d) Hacker warmup. Solving the following tasks
+
++ General: HTTP Basics
+
+<img width="730" alt="Screenshot 2023-01-26 at 23 06 30" src="https://user-images.githubusercontent.com/90892301/214957542-8d23ae2d-8ce4-4c97-8240-43d55eb8a027.png">
+
+<img width="1011" alt="Screenshot 2023-01-26 at 23 20 14" src="https://user-images.githubusercontent.com/90892301/214957644-156cf8a1-7432-46c3-9dc9-781f48edb3e1.png">
+
+<img width="1007" alt="Screenshot 2023-01-26 at 23 27 33" src="https://user-images.githubusercontent.com/90892301/214957694-bf6ff2ef-d76e-427b-a375-dd12728869e4.png">
+
++ General: Developer tools
+
+<img width="1022" alt="Screenshot 2023-01-26 at 23 29 15" src="https://user-images.githubusercontent.com/90892301/214957825-c866fb56-621c-4b9d-88c3-abe206ba73a0.png">
+
+<img width="1013" alt="Screenshot 2023-01-26 at 23 42 21" src="https://user-images.githubusercontent.com/90892301/214957882-c990daeb-b108-4681-8898-b6a0cff7ceb4.png">
+
+In the end, I managed to complete the required exercises and find the answers to the questions offered in the "HTML Basics" and "Developer tools". 
+
+
+
