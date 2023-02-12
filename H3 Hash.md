@@ -24,16 +24,16 @@ Sources: [Schneier 2015: Applied Cryptography](https://learning.oreilly.com/libr
 
 ## a) Install Hashcat
 
-Sources: [](https://terokarvinen.com/2022/cracking-passwords-with-hashcat/)
+Sources: [Cracking passwords with hashcat](https://terokarvinen.com/2022/cracking-passwords-with-hashcat/)
 
 ## b) Crack this hash: 8eb8e307a6d649bc7fb51443a06a216f
 
-Sources: [](https://terokarvinen.com/2022/cracking-passwords-with-hashcat/)
+Sources: [Cracking passwords with hashcat](https://terokarvinen.com/2022/cracking-passwords-with-hashcat/)
 
 ## c) Compile John the Ripper, Jumbo version
 
-Sources: [](https://terokarvinen.com/2023/crack-file-password-with-john/)
+Sources: [Compile John the Ripper, Jumbo version](https://terokarvinen.com/2023/crack-file-password-with-john/)
 
 ### d) Crack a zip file password
 
-Sources: [](https://terokarvinen.com/2023/crack-file-password-with-john/)
+Sources: [Crack file passwords with John](https://terokarvinen.com/2023/crack-file-password-with-john/)
