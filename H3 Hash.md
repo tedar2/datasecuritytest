@@ -20,8 +20,20 @@ One-way hash functions are designed to work in one direction only - it is easy t
 
 A message authentication code (MAC) is a one-way hash function with the added benefit of a secret key. The hash value is a function of both the pre-image and the key, meaning only someone with the key can verify the hash value. MACs can be created from hash functions or encryption algorithms, and there are also specialized MACs available.
 
-
-
-
-
 Sources: [](https://learning.oreilly.com/library/view/applied-cryptography-protocols/9781119096726/10_chap02.html#chap02-sec005)
+
+## a) Install Hashcat
+
+Sources: [](https://terokarvinen.com/2022/cracking-passwords-with-hashcat/)
+
+## b) Crack this hash: 8eb8e307a6d649bc7fb51443a06a216f
+
+Sources: [](https://terokarvinen.com/2022/cracking-passwords-with-hashcat/)
+
+## c) Compile John the Ripper, Jumbo version
+
+Sources: [](https://terokarvinen.com/2023/crack-file-password-with-john/)
+
+### d) Crack a zip file password
+
+Sources: [](https://terokarvinen.com/2023/crack-file-password-with-john/)
