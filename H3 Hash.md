@@ -24,8 +24,6 @@ Sources: [Schneier 2015: Applied Cryptography](https://learning.oreilly.com/libr
 
 ## a) Install Hashcat
 
-Sources: [Cracking passwords with hashcat](https://terokarvinen.com/2022/cracking-passwords-with-hashcat/)
-
 I have installed the required apps:
 
 + sudo apt-get update
@@ -64,6 +62,7 @@ However, I didn't spot the exact word "password":
 
 <img width="790" alt="image" src="https://user-images.githubusercontent.com/90892301/218332462-1bed95dd-dcac-40f6-a8e7-a0d3676e0f40.png">
 
+Sources: [Cracking passwords with hashcat](https://terokarvinen.com/2022/cracking-passwords-with-hashcat/)
 
 ## b) Crack this hash: 8eb8e307a6d649bc7fb51443a06a216f
 
