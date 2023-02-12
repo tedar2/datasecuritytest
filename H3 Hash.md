@@ -56,7 +56,7 @@ I have installed the required apps:
 
 <img width="796" alt="image" src="https://user-images.githubusercontent.com/90892301/218332106-9862f6bd-0473-4361-afb0-c58294e57af2.png">
 
-+ Cracked the hash: <hashcat -m 0 '6b1628b016dff46e6fa35684be6acc96' rockyou.txt -o solved>
++ Cracked the hash: `hashcat -m 0 '6b1628b016dff46e6fa35684be6acc96' rockyou.txt -o solved>`
 
 <img width="771" alt="image" src="https://user-images.githubusercontent.com/90892301/218332204-3da9a24d-fcd1-4ec6-97ec-d4963ed0d410.png">
 
