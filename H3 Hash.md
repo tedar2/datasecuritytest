@@ -79,8 +79,8 @@ Sources: [Cracking passwords with hashcat](https://terokarvinen.com/2022/crackin
 
 I have installed the apps:
 
-+sudo apt-get update
-+sudo apt-get -y install micro bash-completion git build-essential libssl-dev zlib1g zlib1g-dev zlib-gst libbz2-1.0 libbz2-dev atool zip wget
++ sudo apt-get update
++ sudo apt-get -y install micro bash-completion git build-essential libssl-dev zlib1g zlib1g-dev zlib-gst libbz2-1.0 libbz2-dev atool zip wget
 
 <img width="752" alt="image" src="https://user-images.githubusercontent.com/90892301/218332863-2cc3e42b-5a35-4cad-8ac6-84992dba0ce4.png">
 
@@ -88,10 +88,39 @@ I have downloaded and compiled the John Ripper, Jumbo version
 
 <img width="737" alt="image" src="https://user-images.githubusercontent.com/90892301/218332928-27052dd0-529f-426f-997e-5beb0e68a01c.png">
 
+git clone --depth=1 https://github.com/openwall/john.git command
+
 <img width="792" alt="image" src="https://user-images.githubusercontent.com/90892301/218333086-f714fefd-5cdb-4f1e-9e6a-0593507be1f6.png">
+
+Also, I have typed the following commands:
+
+`$ cd john/src/	
+$ ./configure`
+
+<img width="776" alt="image" src="https://user-images.githubusercontent.com/90892301/218333258-b47e0f0b-ae09-44ee-a40a-0e2f594447b6.png">
+
+Then I have completed the following step:
+
+<img width="663" alt="image" src="https://user-images.githubusercontent.com/90892301/218333310-cbf05ad3-a0f1-4b52-b691-a7731b228761.png">
+
+After the John was compiled, I have found more executables and scripts in run:
+
+<img width="549" alt="image" src="https://user-images.githubusercontent.com/90892301/218333398-67a1f06b-8331-4d8c-a3e0-9d1b840218b0.png">
+
+Then I ran John:
+
+<img width="743" alt="image" src="https://user-images.githubusercontent.com/90892301/218333456-3c1ce1cd-77f0-42a8-8e59-b2c6b119063b.png">
 
 Sources: [Compile John the Ripper, Jumbo version](https://terokarvinen.com/2023/crack-file-password-with-john/)
 
 ### d) Crack a zip file password
+
+I have downloaded the zip file
+
+<img width="768" alt="image" src="https://user-images.githubusercontent.com/90892301/218333491-d9f4ac24-9d3d-4eeb-b79a-897d8097a0a7.png">
+
+And I have attempted to unzip it, but in vain
+
+<img width="462" alt="image" src="https://user-images.githubusercontent.com/90892301/218333522-1d43d88b-edcf-488b-a6fd-30a282f23d41.png">
 
 Sources: [Crack file passwords with John](https://terokarvinen.com/2023/crack-file-password-with-john/)
