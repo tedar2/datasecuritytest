@@ -88,7 +88,7 @@ I have downloaded and compiled the John Ripper, Jumbo version
 
 <img width="737" alt="image" src="https://user-images.githubusercontent.com/90892301/218332928-27052dd0-529f-426f-997e-5beb0e68a01c.png">
 
-git clone --depth=1 https://github.com/openwall/john.git command
+`git clone --depth=1 https://github.com/openwall/john.git` command
 
 <img width="792" alt="image" src="https://user-images.githubusercontent.com/90892301/218333086-f714fefd-5cdb-4f1e-9e6a-0593507be1f6.png">
 
