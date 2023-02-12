@@ -26,6 +26,40 @@ Sources: [Schneier 2015: Applied Cryptography](https://learning.oreilly.com/libr
 
 Sources: [Cracking passwords with hashcat](https://terokarvinen.com/2022/cracking-passwords-with-hashcat/)
 
+I have installed the required apps:
+
++ sudo apt-get update
+
+<img width="729" alt="image" src="https://user-images.githubusercontent.com/90892301/218331690-4d080500-20de-455a-badc-9819db0487f0.png">
+
++ sudo apt-get -y install hashid hashcat wget
+
+<img width="753" alt="image" src="https://user-images.githubusercontent.com/90892301/218331774-d917e27a-98b5-4edd-a3ba-0f5e2ba84051.png">
+
++ created new directories
+
+<img width="457" alt="image" src="https://user-images.githubusercontent.com/90892301/218331826-73017933-0e75-4244-8bc5-78279949d4aa.png">
+
++ installed the big dictionary "Rockyou"
+
+<img width="750" alt="image" src="https://user-images.githubusercontent.com/90892301/218331899-0fd76468-abdd-4702-bb15-56198106ef6e.png">
+
+<img width="627" alt="image" src="https://user-images.githubusercontent.com/90892301/218331950-7c0480ac-bd9d-4efa-a8e0-f581742db4c8.png">
+
++ Words from the dictionary:
+
+<img width="556" alt="image" src="https://user-images.githubusercontent.com/90892301/218331994-d69069a9-f89c-47ed-8199-fb36d43c3928.png">
+
+<img width="651" alt="image" src="https://user-images.githubusercontent.com/90892301/218332032-642c7f84-e621-4a4a-bdef-6651690c0b5f.png">
+
++ Identified the hash
+
+<img width="796" alt="image" src="https://user-images.githubusercontent.com/90892301/218332106-9862f6bd-0473-4361-afb0-c58294e57af2.png">
+
++ Cracked the hash: <hashcat -m 0 '6b1628b016dff46e6fa35684be6acc96' rockyou.txt -o solved>
+
+<img width="771" alt="image" src="https://user-images.githubusercontent.com/90892301/218332204-3da9a24d-fcd1-4ec6-97ec-d4963ed0d410.png">
+
 ## b) Crack this hash: 8eb8e307a6d649bc7fb51443a06a216f
 
 Sources: [Cracking passwords with hashcat](https://terokarvinen.com/2022/cracking-passwords-with-hashcat/)
