@@ -56,15 +56,39 @@ I have installed the required apps:
 
 <img width="796" alt="image" src="https://user-images.githubusercontent.com/90892301/218332106-9862f6bd-0473-4361-afb0-c58294e57af2.png">
 
-+ Cracked the hash: `hashcat -m 0 '6b1628b016dff46e6fa35684be6acc96' rockyou.txt -o solved>`
++ Cracked the hash: `hashcat -m 0 '6b1628b016dff46e6fa35684be6acc96' rockyou.txt -o solved`
 
 <img width="771" alt="image" src="https://user-images.githubusercontent.com/90892301/218332204-3da9a24d-fcd1-4ec6-97ec-d4963ed0d410.png">
 
+However, I didn't spot the exact word "password": 
+
+<img width="790" alt="image" src="https://user-images.githubusercontent.com/90892301/218332462-1bed95dd-dcac-40f6-a8e7-a0d3676e0f40.png">
+
+
 ## b) Crack this hash: 8eb8e307a6d649bc7fb51443a06a216f
+
+I tried to crack the hash from the exercise b), and I have received the same result: 
+
+<img width="986" alt="image" src="https://user-images.githubusercontent.com/90892301/218332654-99df5cc7-aad1-44d1-ba74-0053ac9022fc.png">
+
+I'm not quite sure where exactly something went wrong, and I am still trying to figure out the solution. 
 
 Sources: [Cracking passwords with hashcat](https://terokarvinen.com/2022/cracking-passwords-with-hashcat/)
 
 ## c) Compile John the Ripper, Jumbo version
+
+I have installed the apps:
+
++sudo apt-get update
++sudo apt-get -y install micro bash-completion git build-essential libssl-dev zlib1g zlib1g-dev zlib-gst libbz2-1.0 libbz2-dev atool zip wget
+
+<img width="752" alt="image" src="https://user-images.githubusercontent.com/90892301/218332863-2cc3e42b-5a35-4cad-8ac6-84992dba0ce4.png">
+
+I have downloaded and compiled the John Ripper, Jumbo version
+
+<img width="737" alt="image" src="https://user-images.githubusercontent.com/90892301/218332928-27052dd0-529f-426f-997e-5beb0e68a01c.png">
+
+<img width="792" alt="image" src="https://user-images.githubusercontent.com/90892301/218333086-f714fefd-5cdb-4f1e-9e6a-0593507be1f6.png">
 
 Sources: [Compile John the Ripper, Jumbo version](https://terokarvinen.com/2023/crack-file-password-with-john/)
 
