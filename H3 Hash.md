@@ -123,4 +123,13 @@ And I have attempted to unzip it, but in vain
 
 <img width="462" alt="image" src="https://user-images.githubusercontent.com/90892301/218333522-1d43d88b-edcf-488b-a6fd-30a282f23d41.png">
 
+I ran the command line to find out the password for the file: butterfly 
+
+<img width="749" alt="image" src="https://user-images.githubusercontent.com/90892301/218333628-91a33e42-5eaf-41c3-b7e4-029fcfc2ced0.png">
+
+And then I unzipped the file:
+
+<img width="708" alt="image" src="https://user-images.githubusercontent.com/90892301/218333724-940c767d-bafe-46ad-af45-b527ad880517.png">
+
+
 Sources: [Crack file passwords with John](https://terokarvinen.com/2023/crack-file-password-with-john/)
