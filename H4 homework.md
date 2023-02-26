@@ -8,6 +8,11 @@ The article covers the following topics:
 
 ## y) Choose a password manager
 
+KeePassX is a password manager that provides protection against several threats. Some of the threats it protects against include:
+
++ Password theft: KeePassX encrypts passwords and stores them in an encrypted database, which makes it difficult for attackers to steal passwords.
++Password reuse: KeePassX can generate unique, complex passwords for each account, which reduces the risk of password reuse.
+Phishing: KeePassX can be configured to launch websites from within the application, which reduces the risk of falling victim to phishing attacks that redirect users to fake websites.
 
 ### What treaths does it protect against?
 
