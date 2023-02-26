@@ -6,7 +6,7 @@ The article covers the following topics:
 
 
 
-Sources: [Schneier 2015: Applied Cryptography](https://attack.mitre.org/](https://learning.oreilly.com/library/view/applied-cryptography-protocols/9781119096726/19_chap10.html#chap10)
+Sources: [Schneier 2015: Applied Cryptography](https://learning.oreilly.com/library/view/applied-cryptography-protocols/9781119096726/19_chap10.html#chap10)
 
 ## y) Choose a password manager - KeePassX
 
@@ -32,7 +32,7 @@ The license for KeePassX is the GNU General Public License (GPL) version 2.0. Th
 
 The data stored in KeePassX is typically stored locally on the user's device. The encrypted database file can be stored on a local disk, USB drive, or other removable media. It can also be stored in cloud storage services such as Dropbox, Google Drive, or OneDrive. However, it is important to note that the security of the data stored in the cloud will depend on the security of the cloud service provider and the user's account security.
 
-Sources: [Schneier 2015: Applied Cryptography](https://keepassxc.org)
+Sources: [KeePassX](https://keepassxc.org)
 
 ## a) Demonstrate the use of a password manager
 
