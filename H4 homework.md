@@ -36,3 +36,9 @@ Sources: [KeePassX](https://keepassxc.org)
 
 ## a) Demonstrate the use of a password manager
 
+KeePassX - you will need to open the database file (in my case the location of the kdbx file and its name is covered) and enter the password
+<img width="791" alt="image" src="https://user-images.githubusercontent.com/90892301/221427436-be31b053-d9ad-4680-924b-a0cd22db1c1c.png">
+
+Here is an example of my test database with a test key
+<img width="791" alt="image" src="https://user-images.githubusercontent.com/90892301/221427583-a98828f2-a6df-4e53-b681-e6881d31f2da.png">
+
