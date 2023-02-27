@@ -1,4 +1,4 @@
-# H3 Hash
+# h4 Uryyb Greb
 
 ## x) Read and summarize - Schneier 2015: Applied Cryptography: 10. Using Algorigthms: 10.1, 10.2, 10.3, 10.4
 
@@ -20,8 +20,11 @@ In summary, encryption is a powerful tool for securing communication channels, b
 
 End-to-End Encryption involves placing encryption equipment between the network and transport layers to encrypt only the transport data units and avoid encryption/decryption problems at the physical layer. However, routing information for the data is not encrypted, allowing for traffic analysis. Encryption at higher layers of the communication architecture, like the applications layer, can be independent of the type of communication network used and interact with user software. Combining link-by-link and end-to-end encryption is the most effective way of securing a network. Key management for the two schemes can be separate. End-to-end encryption offers a higher secrecy level but requires a more complex key-management system, and traffic analysis is possible since routing information is not encrypted.
 
-### 10.4 (summary)
+### 10.4 ENCRYPTING DATA FOR STORAGE (summary)
 
+Encrypting data for storage is different from encrypting data in transit. The encryption key has the same value as the message but is smaller and can be easily lost, and may need to be securely stored for years. Cryptography can also convert large secrets into smaller ones, making them more vulnerable to being lost. Other problems with encrypting computer data for storage include the possibility of plaintext data existing elsewhere, smaller data sizes, and complicated key management procedures. Retrieving encrypted files may also be inefficient if the encrypted files are structured as records and fields. It is important to ensure that the unencrypted file is erased after encryption.
+
+When encrypting a hard drive, one can either use a single key to encrypt all the data, which is less secure and doesn't allow multiple users to access parts of the drive, or encrypt each file with a different key, which requires users to remember multiple keys. The solution is to encrypt each file with a separate key and encrypt those keys with another key known by the users. Driver-level encryption maintains a logical drive on the user's machine with all data encrypted, while file-level encryption encrypts each file separately. Providing random access to an encrypted drive can be done by using a unique initialization vector for each sector, generating a pseudo-random block as large as one sector, using error-recovering modes like CBC and CFB, or using a block cipher with a large enough block size.
 
 Sources: [Schneier 2015: Applied Cryptography](https://learning.oreilly.com/library/view/applied-cryptography-protocols/9781119096726/19_chap10.html#chap10)
 
@@ -59,3 +62,4 @@ KeePassX - you will need to open the database file (in my case the location of t
 Here is an example of my test database with a test key
 <img width="791" alt="image" src="https://user-images.githubusercontent.com/90892301/221427583-a98828f2-a6df-4e53-b681-e6881d31f2da.png">
 
+## 
