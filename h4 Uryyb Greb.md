@@ -62,4 +62,22 @@ KeePassX - you will need to open the database file (in my case the location of t
 Here is an example of my test database with a test key
 <img width="791" alt="image" src="https://user-images.githubusercontent.com/90892301/221427583-a98828f2-a6df-4e53-b681-e6881d31f2da.png">
 
-## 
+## b) Encrypt and decrypt a message - GPG Suite tool
+
+I have followed these steps:
+
++ Install GPG on your computer if it's not already installed.
++ Open a terminal or command prompt.
++ Generate a new key pair by running the command: gpg --gen-key
+
+<img width="563" alt="image" src="https://user-images.githubusercontent.com/90892301/221662673-1a043fce-20a2-4e9d-ab66-d95643322ea2.png">
+
++ Once the key pair is generated, you can list your keys by running the command: gpg --list-keys
++ To encrypt a message, use the command: gpg --encrypt --recipient <recipient name or email address> <file name>
++ Replace <recipient name or email address> with the name or email address of the person you want to send the encrypted message to, and <file name> with the name of the file containing the message you want to encrypt.
++ GPG will encrypt the file and create a new file with the .gpg extension.
++ To decrypt the message, use the command: gpg --decrypt <encrypted file name>
++ Replace <encrypted file name> with the name of the file that was created when you encrypted the message.
++ GPG will prompt you for your passphrase, which you created when you generated your key pair. Enter the passphrase and the message will be decrypted.
+
+
