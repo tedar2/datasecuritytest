@@ -75,12 +75,13 @@ I have followed these steps:
 + Once the key pair is generated, you can list your keys by running the command: gpg --list-keys
 + To encrypt a message, use the command: gpg --encrypt --recipient <recipient name or email address> <file name>
 
+ <img width="756" alt="image" src="https://user-images.githubusercontent.com/90892301/221667438-e6a7c902-c834-46b5-8e22-bac9e156e7cb.png">
+
+ + GPG will encrypt the file and create a new file with the .gpg extension.
  <img width="977" alt="image" src="https://user-images.githubusercontent.com/90892301/221667083-f0dd9411-2f1e-462a-b4ba-2183e3abcda0.png">
 
-+ GPG will encrypt the file and create a new file with the .gpg extension.
-  
   
 
 + To decrypt the message, use the command: gpg --decrypt <encrypted file name>
  
-  ![image](https://user-images.githubusercontent.com/90892301/221666599-86d4339d-efa6-4391-9ec4-e7bfa682bebe.png)  
+  
