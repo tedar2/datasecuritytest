@@ -74,10 +74,13 @@ I have followed these steps:
 
 + Once the key pair is generated, you can list your keys by running the command: gpg --list-keys
 + To encrypt a message, use the command: gpg --encrypt --recipient <recipient name or email address> <file name>
-+ Replace <recipient name or email address> with the name or email address of the person you want to send the encrypted message to, and <file name> with the name of the file containing the message you want to encrypt.
+
+  ![image](https://user-images.githubusercontent.com/90892301/221665595-56d753db-b9a7-4be6-afad-1ddb5f4ac102.png)
+
 + GPG will encrypt the file and create a new file with the .gpg extension.
+  
+  ![image](https://user-images.githubusercontent.com/90892301/221665407-6e30bd55-7f21-4646-b354-5d892acda9cc.png)
+
 + To decrypt the message, use the command: gpg --decrypt <encrypted file name>
-+ Replace <encrypted file name> with the name of the file that was created when you encrypted the message.
-+ GPG will prompt you for your passphrase, which you created when you generated your key pair. Enter the passphrase and the message will be decrypted.
-
-
+ 
+  ![image](https://user-images.githubusercontent.com/90892301/221666599-86d4339d-efa6-4391-9ec4-e7bfa682bebe.png)  
