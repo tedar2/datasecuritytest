@@ -85,5 +85,5 @@ I have followed these steps:
  
  <img width="540" alt="image" src="https://user-images.githubusercontent.com/90892301/221667869-7a9edcca-3f0f-47e8-afaa-59f380b2f045.png">
 
- 
+ Sources: [GNUPG Manual](https://www.gnupg.org/gph/en/manual/x110.html)
   
